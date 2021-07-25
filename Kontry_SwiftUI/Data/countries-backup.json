@@ -1,0 +1,1374 @@
+[
+    {
+
+        "name": "Bahrain",
+        "topLevelDomain": [
+            ".bh"
+        ],
+        "alpha2Code": "BH",
+        "alpha3Code": "BHR",
+        "callingCodes": [
+            "973"
+        ],
+        "capital": "Manama",
+        "altSpellings": [
+            "BH",
+            "Kingdom of Bahrain",
+            "Mamlakat al-Baḥrayn"
+        ],
+        "region": "Asia",
+        "subregion": "Western Asia",
+        "population": 1404900,
+        "latlng": [
+            26.0,
+            50.55
+        ],
+        "demonym": "Bahraini",
+        "area": 765.0,
+        "gini": null,
+        "timezones": [
+            "UTC+03:00"
+        ],
+        "borders": [ ],
+        "nativeName": "‏البحرين",
+        "numericCode": "048",
+        "currencies": [
+            {
+                "code": "BHD",
+                "name": "Bahraini dinar",
+                "symbol": ".د.ب"
+            }
+        ],
+        "languages": [
+            {
+                "iso639_1": "ar",
+                "iso639_2": "ara",
+                "name": "Arabic",
+                "nativeName": "العربية"
+            }
+        ],
+        "translations": {
+            "de": "Bahrain",
+            "es": "Bahrein",
+            "fr": "Bahreïn",
+            "ja": "バーレーン",
+            "it": "Bahrein",
+            "br": "Bahrein",
+            "pt": "Barém",
+            "nl": "Bahrein",
+            "hr": "Bahrein",
+            "fa": "بحرین"
+        },
+        "flag": "https://restcountries.eu/data/bhr.svg",
+        "regionalBlocs": [
+            {
+                "acronym": "AL",
+                "name": "Arab League",
+                "otherAcronyms": [ ],
+                "otherNames": [
+                    "جامعة الدول العربية",
+                    "Jāmiʻat ad-Duwal al-ʻArabīyah",
+                    "League of Arab States"
+                ]
+            }
+        ],
+        "cioc": "BRN"
+
+    },
+    {
+
+        "name": "Brazil",
+        "topLevelDomain": [
+            ".br"
+        ],
+        "alpha2Code": "BR",
+        "alpha3Code": "BRA",
+        "callingCodes": [
+            "55"
+        ],
+        "capital": "Brasília",
+        "altSpellings": [
+            "BR",
+            "Brasil",
+            "Federative Republic of Brazil",
+            "República Federativa do Brasil"
+        ],
+        "region": "Americas",
+        "subregion": "South America",
+        "population": 206135893,
+        "latlng": [
+            -10.0,
+            -55.0
+        ],
+        "demonym": "Brazilian",
+        "area": 8515767.0,
+        "gini": 54.7,
+        "timezones": [
+            "UTC-05:00",
+            "UTC-04:00",
+            "UTC-03:00",
+            "UTC-02:00"
+        ],
+        "borders": [
+            "ARG",
+            "BOL",
+            "COL",
+            "GUF",
+            "GUY",
+            "PRY",
+            "PER",
+            "SUR",
+            "URY",
+            "VEN"
+        ],
+        "nativeName": "Brasil",
+        "numericCode": "076",
+        "currencies": [
+            {
+                "code": "BRL",
+                "name": "Brazilian real",
+                "symbol": "R$"
+            }
+        ],
+        "languages": [
+            {
+                "iso639_1": "pt",
+                "iso639_2": "por",
+                "name": "Portuguese",
+                "nativeName": "Português"
+            }
+        ],
+        "translations": {
+            "de": "Brasilien",
+            "es": "Brasil",
+            "fr": "Brésil",
+            "ja": "ブラジル",
+            "it": "Brasile",
+            "br": "Brasil",
+            "pt": "Brasil",
+            "nl": "Brazilië",
+            "hr": "Brazil",
+            "fa": "برزیل"
+        },
+        "flag": "https://restcountries.eu/data/bra.svg",
+        "regionalBlocs": [
+            {
+                "acronym": "USAN",
+                "name": "Union of South American Nations",
+                "otherAcronyms": [
+                    "UNASUR",
+                    "UNASUL",
+                    "UZAN"
+                ],
+                "otherNames": [
+                    "Unión de Naciones Suramericanas",
+                    "União de Nações Sul-Americanas",
+                    "Unie van Zuid-Amerikaanse Naties",
+                    "South American Union"
+                ]
+            }
+        ],
+        "cioc": "BRA"
+
+    },
+    {
+
+        "name": "Canada",
+        "topLevelDomain": [
+            ".ca"
+        ],
+        "alpha2Code": "CA",
+        "alpha3Code": "CAN",
+        "callingCodes": [
+            "1"
+        ],
+        "capital": "Ottawa",
+        "altSpellings": [
+            "CA"
+        ],
+        "region": "Americas",
+        "subregion": "Northern America",
+        "population": 36155487,
+        "latlng": [
+            60.0,
+            -95.0
+        ],
+        "demonym": "Canadian",
+        "area": 9984670.0,
+        "gini": 32.6,
+        "timezones": [
+            "UTC-08:00",
+            "UTC-07:00",
+            "UTC-06:00",
+            "UTC-05:00",
+            "UTC-04:00",
+            "UTC-03:30"
+        ],
+        "borders": [
+            "USA"
+        ],
+        "nativeName": "Canada",
+        "numericCode": "124",
+        "currencies": [
+            {
+                "code": "CAD",
+                "name": "Canadian dollar",
+                "symbol": "$"
+            }
+        ],
+        "languages": [
+            {
+                "iso639_1": "en",
+                "iso639_2": "eng",
+                "name": "English",
+                "nativeName": "English"
+            },
+            {
+                "iso639_1": "fr",
+                "iso639_2": "fra",
+                "name": "French",
+                "nativeName": "français"
+            }
+        ],
+        "translations": {
+            "de": "Kanada",
+            "es": "Canadá",
+            "fr": "Canada",
+            "ja": "カナダ",
+            "it": "Canada",
+            "br": "Canadá",
+            "pt": "Canadá",
+            "nl": "Canada",
+            "hr": "Kanada",
+            "fa": "کانادا"
+        },
+        "flag": "https://restcountries.eu/data/can.svg",
+        "regionalBlocs": [
+            {
+                "acronym": "NAFTA",
+                "name": "North American Free Trade Agreement",
+                "otherAcronyms": [ ],
+                "otherNames": [
+                    "Tratado de Libre Comercio de América del Norte",
+                    "Accord de Libre-échange Nord-Américain"
+                ]
+            }
+        ],
+        "cioc": "CAN"
+
+    },
+    {
+
+        "name": "Cuba",
+        "topLevelDomain": [
+            ".cu"
+        ],
+        "alpha2Code": "CU",
+        "alpha3Code": "CUB",
+        "callingCodes": [
+            "53"
+        ],
+        "capital": "Havana",
+        "altSpellings": [
+            "CU",
+            "Republic of Cuba",
+            "República de Cuba"
+        ],
+        "region": "Americas",
+        "subregion": "Caribbean",
+        "population": 11239004,
+        "latlng": [
+            21.5,
+            -80.0
+        ],
+        "demonym": "Cuban",
+        "area": 109884.0,
+        "gini": null,
+        "timezones": [
+            "UTC-05:00"
+        ],
+        "borders": [ ],
+        "nativeName": "Cuba",
+        "numericCode": "192",
+        "currencies": [
+            {
+                "code": "CUC",
+                "name": "Cuban convertible peso",
+                "symbol": "$"
+            },
+            {
+                "code": "CUP",
+                "name": "Cuban peso",
+                "symbol": "$"
+            }
+        ],
+        "languages": [
+            {
+                "iso639_1": "es",
+                "iso639_2": "spa",
+                "name": "Spanish",
+                "nativeName": "Español"
+            }
+        ],
+        "translations": {
+            "de": "Kuba",
+            "es": "Cuba",
+            "fr": "Cuba",
+            "ja": "キューバ",
+            "it": "Cuba",
+            "br": "Cuba",
+            "pt": "Cuba",
+            "nl": "Cuba",
+            "hr": "Kuba",
+            "fa": "کوبا"
+        },
+        "flag": "https://restcountries.eu/data/cub.svg",
+        "regionalBlocs": [ ],
+        "cioc": "CUB"
+
+    },
+    {
+
+        "name": "Egypt",
+        "topLevelDomain": [
+            ".eg"
+        ],
+        "alpha2Code": "EG",
+        "alpha3Code": "EGY",
+        "callingCodes": [
+            "20"
+        ],
+        "capital": "Cairo",
+        "altSpellings": [
+            "EG",
+            "Arab Republic of Egypt"
+        ],
+        "region": "Africa",
+        "subregion": "Northern Africa",
+        "population": 91290000,
+        "latlng": [
+            27.0,
+            30.0
+        ],
+        "demonym": "Egyptian",
+        "area": 1002450.0,
+        "gini": 30.8,
+        "timezones": [
+            "UTC+02:00"
+        ],
+        "borders": [
+            "ISR",
+            "LBY",
+            "SDN"
+        ],
+        "nativeName": "مصر‎",
+        "numericCode": "818",
+        "currencies": [
+            {
+                "code": "EGP",
+                "name": "Egyptian pound",
+                "symbol": "£"
+            }
+        ],
+        "languages": [
+            {
+                "iso639_1": "ar",
+                "iso639_2": "ara",
+                "name": "Arabic",
+                "nativeName": "العربية"
+            }
+        ],
+        "translations": {
+            "de": "Ägypten",
+            "es": "Egipto",
+            "fr": "Égypte",
+            "ja": "エジプト",
+            "it": "Egitto",
+            "br": "Egito",
+            "pt": "Egipto",
+            "nl": "Egypte",
+            "hr": "Egipat",
+            "fa": "مصر"
+        },
+        "flag": "https://restcountries.eu/data/egy.svg",
+        "regionalBlocs": [
+            {
+                "acronym": "AU",
+                "name": "African Union",
+                "otherAcronyms": [ ],
+                "otherNames": [
+                    "الاتحاد الأفريقي",
+                    "Union africaine",
+                    "União Africana",
+                    "Unión Africana",
+                    "Umoja wa Afrika"
+                ]
+            },
+            {
+                "acronym": "AL",
+                "name": "Arab League",
+                "otherAcronyms": [ ],
+                "otherNames": [
+                    "جامعة الدول العربية",
+                    "Jāmiʻat ad-Duwal al-ʻArabīyah",
+                    "League of Arab States"
+                ]
+            }
+        ],
+        "cioc": "EGY"
+
+    },
+    {
+
+        "name": "Japan",
+        "topLevelDomain": [
+            ".jp"
+        ],
+        "alpha2Code": "JP",
+        "alpha3Code": "JPN",
+        "callingCodes": [
+            "81"
+        ],
+        "capital": "Tokyo",
+        "altSpellings": [
+            "JP",
+            "Nippon",
+            "Nihon"
+        ],
+        "region": "Asia",
+        "subregion": "Eastern Asia",
+        "population": 126960000,
+        "latlng": [
+            36.0,
+            138.0
+        ],
+        "demonym": "Japanese",
+        "area": 377930.0,
+        "gini": 38.1,
+        "timezones": [
+            "UTC+09:00"
+        ],
+        "borders": [ ],
+        "nativeName": "日本",
+        "numericCode": "392",
+        "currencies": [
+            {
+                "code": "JPY",
+                "name": "Japanese yen",
+                "symbol": "¥"
+            }
+        ],
+        "languages": [
+            {
+                "iso639_1": "ja",
+                "iso639_2": "jpn",
+                "name": "Japanese",
+                "nativeName": "日本語 (にほんご)"
+            }
+        ],
+        "translations": {
+            "de": "Japan",
+            "es": "Japón",
+            "fr": "Japon",
+            "ja": "日本",
+            "it": "Giappone",
+            "br": "Japão",
+            "pt": "Japão",
+            "nl": "Japan",
+            "hr": "Japan",
+            "fa": "ژاپن"
+        },
+        "flag": "https://restcountries.eu/data/jpn.svg",
+        "regionalBlocs": [ ],
+        "cioc": "JPN"
+
+    },
+    {
+
+        "name": "Kuwait",
+        "topLevelDomain": [
+            ".kw"
+        ],
+        "alpha2Code": "KW",
+        "alpha3Code": "KWT",
+        "callingCodes": [
+            "965"
+        ],
+        "capital": "Kuwait City",
+        "altSpellings": [
+            "KW",
+            "State of Kuwait",
+            "Dawlat al-Kuwait"
+        ],
+        "region": "Asia",
+        "subregion": "Western Asia",
+        "population": 4183658,
+        "latlng": [
+            29.5,
+            45.75
+        ],
+        "demonym": "Kuwaiti",
+        "area": 17818.0,
+        "gini": null,
+        "timezones": [
+            "UTC+03:00"
+        ],
+        "borders": [
+            "IRN",
+            "SAU"
+        ],
+        "nativeName": "الكويت",
+        "numericCode": "414",
+        "currencies": [
+            {
+                "code": "KWD",
+                "name": "Kuwaiti dinar",
+                "symbol": "د.ك"
+            }
+        ],
+        "languages": [
+            {
+                "iso639_1": "ar",
+                "iso639_2": "ara",
+                "name": "Arabic",
+                "nativeName": "العربية"
+            }
+        ],
+        "translations": {
+            "de": "Kuwait",
+            "es": "Kuwait",
+            "fr": "Koweït",
+            "ja": "クウェート",
+            "it": "Kuwait",
+            "br": "Kuwait",
+            "pt": "Kuwait",
+            "nl": "Koeweit",
+            "hr": "Kuvajt",
+            "fa": "کویت"
+        },
+        "flag": "https://restcountries.eu/data/kwt.svg",
+        "regionalBlocs": [
+            {
+                "acronym": "AL",
+                "name": "Arab League",
+                "otherAcronyms": [ ],
+                "otherNames": [
+                    "جامعة الدول العربية",
+                    "Jāmiʻat ad-Duwal al-ʻArabīyah",
+                    "League of Arab States"
+                ]
+            }
+        ],
+        "cioc": "KUW"
+
+    },
+    {
+
+        "name": "Malaysia",
+        "topLevelDomain": [
+            ".my"
+        ],
+        "alpha2Code": "MY",
+        "alpha3Code": "MYS",
+        "callingCodes": [
+            "60"
+        ],
+        "capital": "Kuala Lumpur",
+        "altSpellings": [
+            "MY"
+        ],
+        "region": "Asia",
+        "subregion": "South-Eastern Asia",
+        "population": 31405416,
+        "latlng": [
+            2.5,
+            112.5
+        ],
+        "demonym": "Malaysian",
+        "area": 330803.0,
+        "gini": 46.2,
+        "timezones": [
+            "UTC+08:00"
+        ],
+        "borders": [
+            "BRN",
+            "IDN",
+            "THA"
+        ],
+        "nativeName": "Malaysia",
+        "numericCode": "458",
+        "currencies": [
+            {
+                "code": "MYR",
+                "name": "Malaysian ringgit",
+                "symbol": "RM"
+            }
+        ],
+        "languages": [
+            {
+                "iso639_1": null,
+                "iso639_2": "zsm",
+                "name": "Malaysian",
+                "nativeName": "بهاس مليسيا"
+            }
+        ],
+        "translations": {
+            "de": "Malaysia",
+            "es": "Malasia",
+            "fr": "Malaisie",
+            "ja": "マレーシア",
+            "it": "Malesia",
+            "br": "Malásia",
+            "pt": "Malásia",
+            "nl": "Maleisië",
+            "hr": "Malezija",
+            "fa": "مالزی"
+        },
+        "flag": "https://restcountries.eu/data/mys.svg",
+        "regionalBlocs": [
+            {
+                "acronym": "ASEAN",
+                "name": "Association of Southeast Asian Nations",
+                "otherAcronyms": [ ],
+                "otherNames": [ ]
+            }
+        ],
+        "cioc": "MAS"
+
+    },
+    {
+
+        "name": "Maldives",
+        "topLevelDomain": [
+            ".mv"
+        ],
+        "alpha2Code": "MV",
+        "alpha3Code": "MDV",
+        "callingCodes": [
+            "960"
+        ],
+        "capital": "Malé",
+        "altSpellings": [
+            "MV",
+            "Maldive Islands",
+            "Republic of the Maldives",
+            "Dhivehi Raajjeyge Jumhooriyya"
+        ],
+        "region": "Asia",
+        "subregion": "Southern Asia",
+        "population": 344023,
+        "latlng": [
+            3.25,
+            73.0
+        ],
+        "demonym": "Maldivan",
+        "area": 300.0,
+        "gini": 37.4,
+        "timezones": [
+            "UTC+05:00"
+        ],
+        "borders": [ ],
+        "nativeName": "Maldives",
+        "numericCode": "462",
+        "currencies": [
+            {
+                "code": "MVR",
+                "name": "Maldivian rufiyaa",
+                "symbol": ".ރ"
+            }
+        ],
+        "languages": [
+            {
+                "iso639_1": "dv",
+                "iso639_2": "div",
+                "name": "Divehi",
+                "nativeName": "ދިވެހި"
+            }
+        ],
+        "translations": {
+            "de": "Malediven",
+            "es": "Maldivas",
+            "fr": "Maldives",
+            "ja": "モルディブ",
+            "it": "Maldive",
+            "br": "Maldivas",
+            "pt": "Maldivas",
+            "nl": "Maldiven",
+            "hr": "Maldivi",
+            "fa": "مالدیو"
+        },
+        "flag": "https://restcountries.eu/data/mdv.svg",
+        "regionalBlocs": [
+            {
+                "acronym": "SAARC",
+                "name": "South Asian Association for Regional Cooperation",
+                "otherAcronyms": [ ],
+                "otherNames": [ ]
+            }
+        ],
+        "cioc": "MDV"
+
+    },
+    {
+
+        "name": "Morocco",
+        "topLevelDomain": [
+            ".ma"
+        ],
+        "alpha2Code": "MA",
+        "alpha3Code": "MAR",
+        "callingCodes": [
+            "212"
+        ],
+        "capital": "Rabat",
+        "altSpellings": [
+            "MA",
+            "Kingdom of Morocco",
+            "Al-Mamlakah al-Maġribiyah"
+        ],
+        "region": "Africa",
+        "subregion": "Northern Africa",
+        "population": 33337529,
+        "latlng": [
+            32.0,
+            -5.0
+        ],
+        "demonym": "Moroccan",
+        "area": 446550.0,
+        "gini": 40.9,
+        "timezones": [
+            "UTC"
+        ],
+        "borders": [
+            "DZA",
+            "ESH",
+            "ESP"
+        ],
+        "nativeName": "المغرب",
+        "numericCode": "504",
+        "currencies": [
+            {
+                "code": "MAD",
+                "name": "Moroccan dirham",
+                "symbol": "د.م."
+            }
+        ],
+        "languages": [
+            {
+                "iso639_1": "ar",
+                "iso639_2": "ara",
+                "name": "Arabic",
+                "nativeName": "العربية"
+            }
+        ],
+        "translations": {
+            "de": "Marokko",
+            "es": "Marruecos",
+            "fr": "Maroc",
+            "ja": "モロッコ",
+            "it": "Marocco",
+            "br": "Marrocos",
+            "pt": "Marrocos",
+            "nl": "Marokko",
+            "hr": "Maroko",
+            "fa": "مراکش"
+        },
+        "flag": "https://restcountries.eu/data/mar.svg",
+        "regionalBlocs": [
+            {
+                "acronym": "AU",
+                "name": "African Union",
+                "otherAcronyms": [ ],
+                "otherNames": [
+                    "الاتحاد الأفريقي",
+                    "Union africaine",
+                    "União Africana",
+                    "Unión Africana",
+                    "Umoja wa Afrika"
+                ]
+            },
+            {
+                "acronym": "AL",
+                "name": "Arab League",
+                "otherAcronyms": [ ],
+                "otherNames": [
+                    "جامعة الدول العربية",
+                    "Jāmiʻat ad-Duwal al-ʻArabīyah",
+                    "League of Arab States"
+                ]
+            }
+        ],
+        "cioc": "MAR"
+
+    },
+    {
+
+        "name": "Palestine, State of",
+        "topLevelDomain": [
+            ".ps"
+        ],
+        "alpha2Code": "PS",
+        "alpha3Code": "PSE",
+        "callingCodes": [
+            "970"
+        ],
+        "capital": "Ramallah",
+        "altSpellings": [
+            "PS",
+            "State of Palestine",
+            "Dawlat Filasṭin"
+        ],
+        "region": "Asia",
+        "subregion": "Western Asia",
+        "population": 4682467,
+        "latlng": [
+            31.9,
+            35.2
+        ],
+        "demonym": "Palestinian",
+        "area": null,
+        "gini": 35.5,
+        "timezones": [
+            "UTC+02:00"
+        ],
+        "borders": [
+            "ISR",
+            "EGY",
+            "JOR"
+        ],
+        "nativeName": "فلسطين",
+        "numericCode": "275",
+        "currencies": [
+            {
+                "code": "ILS",
+                "name": "Israeli new sheqel",
+                "symbol": "₪"
+            }
+        ],
+        "languages": [
+            {
+                "iso639_1": "ar",
+                "iso639_2": "ara",
+                "name": "Arabic",
+                "nativeName": "العربية"
+            }
+        ],
+        "translations": {
+            "de": "Palästina",
+            "es": "Palestina",
+            "fr": "Palestine",
+            "ja": "パレスチナ",
+            "it": "Palestina",
+            "br": "Palestina",
+            "pt": "Palestina",
+            "nl": "Palestijnse gebieden",
+            "hr": "Palestina",
+            "fa": "فلسطین"
+        },
+        "flag": "https://restcountries.eu/data/pse.svg",
+        "regionalBlocs": [
+            {
+                "acronym": "AL",
+                "name": "Arab League",
+                "otherAcronyms": [ ],
+                "otherNames": [
+                    "جامعة الدول العربية",
+                    "Jāmiʻat ad-Duwal al-ʻArabīyah",
+                    "League of Arab States"
+                ]
+            }
+        ],
+        "cioc": "PLE"
+
+    },
+    {
+
+        "name": "Saudi Arabia",
+        "topLevelDomain": [
+            ".sa"
+        ],
+        "alpha2Code": "SA",
+        "alpha3Code": "SAU",
+        "callingCodes": [
+            "966"
+        ],
+        "capital": "Riyadh",
+        "altSpellings": [
+            "SA",
+            "Kingdom of Saudi Arabia",
+            "Al-Mamlakah al-‘Arabiyyah as-Su‘ūdiyyah"
+        ],
+        "region": "Asia",
+        "subregion": "Western Asia",
+        "population": 32248200,
+        "latlng": [
+            25.0,
+            45.0
+        ],
+        "demonym": "Saudi Arabian",
+        "area": 2149690.0,
+        "gini": null,
+        "timezones": [
+            "UTC+03:00"
+        ],
+        "borders": [
+            "IRQ",
+            "JOR",
+            "KWT",
+            "OMN",
+            "QAT",
+            "ARE",
+            "YEM"
+        ],
+        "nativeName": "العربية السعودية",
+        "numericCode": "682",
+        "currencies": [
+            {
+                "code": "SAR",
+                "name": "Saudi riyal",
+                "symbol": "ر.س"
+            }
+        ],
+        "languages": [
+            {
+                "iso639_1": "ar",
+                "iso639_2": "ara",
+                "name": "Arabic",
+                "nativeName": "العربية"
+            }
+        ],
+        "translations": {
+            "de": "Saudi-Arabien",
+            "es": "Arabia Saudí",
+            "fr": "Arabie Saoudite",
+            "ja": "サウジアラビア",
+            "it": "Arabia Saudita",
+            "br": "Arábia Saudita",
+            "pt": "Arábia Saudita",
+            "nl": "Saoedi-Arabië",
+            "hr": "Saudijska Arabija",
+            "fa": "عربستان سعودی"
+        },
+        "flag": "https://restcountries.eu/data/sau.svg",
+        "regionalBlocs": [
+            {
+                "acronym": "AL",
+                "name": "Arab League",
+                "otherAcronyms": [ ],
+                "otherNames": [
+                    "جامعة الدول العربية",
+                    "Jāmiʻat ad-Duwal al-ʻArabīyah",
+                    "League of Arab States"
+                ]
+            }
+        ],
+        "cioc": "KSA"
+
+    },
+    {
+
+        "name": "Spain",
+        "topLevelDomain": [
+            ".es"
+        ],
+        "alpha2Code": "ES",
+        "alpha3Code": "ESP",
+        "callingCodes": [
+            "34"
+        ],
+        "capital": "Madrid",
+        "altSpellings": [
+            "ES",
+            "Kingdom of Spain",
+            "Reino de España"
+        ],
+        "region": "Europe",
+        "subregion": "Southern Europe",
+        "population": 46438422,
+        "latlng": [
+            40.0,
+            -4.0
+        ],
+        "demonym": "Spanish",
+        "area": 505992.0,
+        "gini": 34.7,
+        "timezones": [
+            "UTC",
+            "UTC+01:00"
+        ],
+        "borders": [
+            "AND",
+            "FRA",
+            "GIB",
+            "PRT",
+            "MAR"
+        ],
+        "nativeName": "España",
+        "numericCode": "724",
+        "currencies": [
+            {
+                "code": "EUR",
+                "name": "Euro",
+                "symbol": "€"
+            }
+        ],
+        "languages": [
+            {
+                "iso639_1": "es",
+                "iso639_2": "spa",
+                "name": "Spanish",
+                "nativeName": "Español"
+            }
+        ],
+        "translations": {
+            "de": "Spanien",
+            "es": "España",
+            "fr": "Espagne",
+            "ja": "スペイン",
+            "it": "Spagna",
+            "br": "Espanha",
+            "pt": "Espanha",
+            "nl": "Spanje",
+            "hr": "Španjolska",
+            "fa": "اسپانیا"
+        },
+        "flag": "https://restcountries.eu/data/esp.svg",
+        "regionalBlocs": [
+            {
+                "acronym": "EU",
+                "name": "European Union",
+                "otherAcronyms": [ ],
+                "otherNames": [ ]
+            }
+        ],
+        "cioc": "ESP"
+
+    },
+    {
+
+        "name": "Syrian Arab Republic",
+        "topLevelDomain": [
+            ".sy"
+        ],
+        "alpha2Code": "SY",
+        "alpha3Code": "SYR",
+        "callingCodes": [
+            "963"
+        ],
+        "capital": "Damascus",
+        "altSpellings": [
+            "SY",
+            "Syrian Arab Republic",
+            "Al-Jumhūrīyah Al-ʻArabīyah As-Sūrīyah"
+        ],
+        "region": "Asia",
+        "subregion": "Western Asia",
+        "population": 18564000,
+        "latlng": [
+            35.0,
+            38.0
+        ],
+        "demonym": "Syrian",
+        "area": 185180.0,
+        "gini": 35.8,
+        "timezones": [
+            "UTC+02:00"
+        ],
+        "borders": [
+            "IRQ",
+            "ISR",
+            "JOR",
+            "LBN",
+            "TUR"
+        ],
+        "nativeName": "سوريا",
+        "numericCode": "760",
+        "currencies": [
+            {
+                "code": "SYP",
+                "name": "Syrian pound",
+                "symbol": "£"
+            }
+        ],
+        "languages": [
+            {
+                "iso639_1": "ar",
+                "iso639_2": "ara",
+                "name": "Arabic",
+                "nativeName": "العربية"
+            }
+        ],
+        "translations": {
+            "de": "Syrien",
+            "es": "Siria",
+            "fr": "Syrie",
+            "ja": "シリア・アラブ共和国",
+            "it": "Siria",
+            "br": "Síria",
+            "pt": "Síria",
+            "nl": "Syrië",
+            "hr": "Sirija",
+            "fa": "سوریه"
+        },
+        "flag": "https://restcountries.eu/data/syr.svg",
+        "regionalBlocs": [
+            {
+                "acronym": "AL",
+                "name": "Arab League",
+                "otherAcronyms": [ ],
+                "otherNames": [
+                    "جامعة الدول العربية",
+                    "Jāmiʻat ad-Duwal al-ʻArabīyah",
+                    "League of Arab States"
+                ]
+            }
+        ],
+        "cioc": "SYR"
+
+    },
+    {
+
+        "name": "Turkey",
+        "topLevelDomain": [
+            ".tr"
+        ],
+        "alpha2Code": "TR",
+        "alpha3Code": "TUR",
+        "callingCodes": [
+            "90"
+        ],
+        "capital": "Ankara",
+        "altSpellings": [
+            "TR",
+            "Turkiye",
+            "Republic of Turkey",
+            "Türkiye Cumhuriyeti"
+        ],
+        "region": "Asia",
+        "subregion": "Western Asia",
+        "population": 78741053,
+        "latlng": [
+            39.0,
+            35.0
+        ],
+        "demonym": "Turkish",
+        "area": 783562.0,
+        "gini": 39.0,
+        "timezones": [
+            "UTC+03:00"
+        ],
+        "borders": [
+            "ARM",
+            "AZE",
+            "BGR",
+            "GEO",
+            "GRC",
+            "IRN",
+            "IRQ",
+            "SYR"
+        ],
+        "nativeName": "Türkiye",
+        "numericCode": "792",
+        "currencies": [
+            {
+                "code": "TRY",
+                "name": "Turkish lira",
+                "symbol": null
+            }
+        ],
+        "languages": [
+            {
+                "iso639_1": "tr",
+                "iso639_2": "tur",
+                "name": "Turkish",
+                "nativeName": "Türkçe"
+            }
+        ],
+        "translations": {
+            "de": "Türkei",
+            "es": "Turquía",
+            "fr": "Turquie",
+            "ja": "トルコ",
+            "it": "Turchia",
+            "br": "Turquia",
+            "pt": "Turquia",
+            "nl": "Turkije",
+            "hr": "Turska",
+            "fa": "ترکیه"
+        },
+        "flag": "https://restcountries.eu/data/tur.svg",
+        "regionalBlocs": [ ],
+        "cioc": "TUR"
+
+    },
+    {
+
+        "name": "United Kingdom of Great Britain and Northern Ireland",
+        "topLevelDomain": [
+            ".uk"
+        ],
+        "alpha2Code": "GB",
+        "alpha3Code": "GBR",
+        "callingCodes": [
+            "44"
+        ],
+        "capital": "London",
+        "altSpellings": [
+            "GB",
+            "UK",
+            "Great Britain"
+        ],
+        "region": "Europe",
+        "subregion": "Northern Europe",
+        "population": 65110000,
+        "latlng": [
+            54.0,
+            -2.0
+        ],
+        "demonym": "British",
+        "area": 242900.0,
+        "gini": 34.0,
+        "timezones": [
+            "UTC-08:00",
+            "UTC-05:00",
+            "UTC-04:00",
+            "UTC-03:00",
+            "UTC-02:00",
+            "UTC",
+            "UTC+01:00",
+            "UTC+02:00",
+            "UTC+06:00"
+        ],
+        "borders": [
+            "IRL"
+        ],
+        "nativeName": "United Kingdom",
+        "numericCode": "826",
+        "currencies": [
+            {
+                "code": "GBP",
+                "name": "British pound",
+                "symbol": "£"
+            }
+        ],
+        "languages": [
+            {
+                "iso639_1": "en",
+                "iso639_2": "eng",
+                "name": "English",
+                "nativeName": "English"
+            }
+        ],
+        "translations": {
+            "de": "Vereinigtes Königreich",
+            "es": "Reino Unido",
+            "fr": "Royaume-Uni",
+            "ja": "イギリス",
+            "it": "Regno Unito",
+            "br": "Reino Unido",
+            "pt": "Reino Unido",
+            "nl": "Verenigd Koninkrijk",
+            "hr": "Ujedinjeno Kraljevstvo",
+            "fa": "بریتانیای کبیر و ایرلند شمالی"
+        },
+        "flag": "https://restcountries.eu/data/gbr.svg",
+        "regionalBlocs": [
+            {
+                "acronym": "EU",
+                "name": "European Union",
+                "otherAcronyms": [ ],
+                "otherNames": [ ]
+            }
+        ],
+        "cioc": "GBR"
+
+    },
+    {
+
+        "name": "United States of America",
+        "topLevelDomain": [
+            ".us"
+        ],
+        "alpha2Code": "US",
+        "alpha3Code": "USA",
+        "callingCodes": [
+            "1"
+        ],
+        "capital": "Washington, D.C.",
+        "altSpellings": [
+            "US",
+            "USA",
+            "United States of America"
+        ],
+        "region": "Americas",
+        "subregion": "Northern America",
+        "population": 323947000,
+        "latlng": [
+            38.0,
+            -97.0
+        ],
+        "demonym": "American",
+        "area": 9629091.0,
+        "gini": 48.0,
+        "timezones": [
+            "UTC-12:00",
+            "UTC-11:00",
+            "UTC-10:00",
+            "UTC-09:00",
+            "UTC-08:00",
+            "UTC-07:00",
+            "UTC-06:00",
+            "UTC-05:00",
+            "UTC-04:00",
+            "UTC+10:00",
+            "UTC+12:00"
+        ],
+        "borders": [
+            "CAN",
+            "MEX"
+        ],
+        "nativeName": "United States",
+        "numericCode": "840",
+        "currencies": [
+            {
+                "code": "USD",
+                "name": "United States dollar",
+                "symbol": "$"
+            }
+        ],
+        "languages": [
+            {
+                "iso639_1": "en",
+                "iso639_2": "eng",
+                "name": "English",
+                "nativeName": "English"
+            }
+        ],
+        "translations": {
+            "de": "Vereinigte Staaten von Amerika",
+            "es": "Estados Unidos",
+            "fr": "États-Unis",
+            "ja": "アメリカ合衆国",
+            "it": "Stati Uniti D'America",
+            "br": "Estados Unidos",
+            "pt": "Estados Unidos",
+            "nl": "Verenigde Staten",
+            "hr": "Sjedinjene Američke Države",
+            "fa": "ایالات متحده آمریکا"
+        },
+        "flag": "https://restcountries.eu/data/usa.svg",
+        "regionalBlocs": [
+            {
+                "acronym": "NAFTA",
+                "name": "North American Free Trade Agreement",
+                "otherAcronyms": [ ],
+                "otherNames": [
+                    "Tratado de Libre Comercio de América del Norte",
+                    "Accord de Libre-échange Nord-Américain"
+                ]
+            }
+        ],
+        "cioc": "USA"
+
+    }
+]

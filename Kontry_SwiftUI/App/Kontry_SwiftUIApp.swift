@@ -11,7 +11,7 @@ import SwiftUI
 struct Kontry_SwiftUIApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            CountryListView(countries: countries)
         }
     }
 }

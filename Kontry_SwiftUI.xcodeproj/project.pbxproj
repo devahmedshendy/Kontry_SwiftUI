@@ -8,18 +8,44 @@
 
 /* Begin PBXBuildFile section */
 		64DD40FA26AD1FE6007E5135 /* Kontry_SwiftUIApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 64DD40F926AD1FE6007E5135 /* Kontry_SwiftUIApp.swift */; };
-		64DD40FC26AD1FE6007E5135 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 64DD40FB26AD1FE6007E5135 /* ContentView.swift */; };
+		64DD40FC26AD1FE6007E5135 /* CountryListView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 64DD40FB26AD1FE6007E5135 /* CountryListView.swift */; };
 		64DD40FE26AD1FE9007E5135 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 64DD40FD26AD1FE9007E5135 /* Assets.xcassets */; };
 		64DD410126AD1FE9007E5135 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 64DD410026AD1FE9007E5135 /* Preview Assets.xcassets */; };
+		64DD410E26AD272A007E5135 /* CountryDetailView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 64DD410D26AD272A007E5135 /* CountryDetailView.swift */; };
+		64DD412426AD2748007E5135 /* countries-backup.json in Resources */ = {isa = PBXBuildFile; fileRef = 64DD411126AD2746007E5135 /* countries-backup.json */; };
+		64DD412526AD2748007E5135 /* countries.json in Resources */ = {isa = PBXBuildFile; fileRef = 64DD411226AD2746007E5135 /* countries.json */; };
+		64DD412626AD2748007E5135 /* CountryModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 64DD411426AD2747007E5135 /* CountryModel.swift */; };
+		64DD412726AD2748007E5135 /* Constant.swift in Sources */ = {isa = PBXBuildFile; fileRef = 64DD411626AD2747007E5135 /* Constant.swift */; };
+		64DD412826AD2748007E5135 /* Bundle+Extension.swift in Sources */ = {isa = PBXBuildFile; fileRef = 64DD411826AD2747007E5135 /* Bundle+Extension.swift */; };
+		64DD412926AD2748007E5135 /* View+Extension.swift in Sources */ = {isa = PBXBuildFile; fileRef = 64DD411926AD2747007E5135 /* View+Extension.swift */; };
+		64DD412A26AD2748007E5135 /* WatermarkView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 64DD411B26AD2748007E5135 /* WatermarkView.swift */; };
+		64DD412B26AD2748007E5135 /* DetailView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 64DD411D26AD2748007E5135 /* DetailView.swift */; };
+		64DD412C26AD2748007E5135 /* TitleView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 64DD411E26AD2748007E5135 /* TitleView.swift */; };
+		64DD412D26AD2748007E5135 /* FlagView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 64DD411F26AD2748007E5135 /* FlagView.swift */; };
+		64DD412E26AD2748007E5135 /* CountryListItem.swift in Sources */ = {isa = PBXBuildFile; fileRef = 64DD412126AD2748007E5135 /* CountryListItem.swift */; };
+		64DD412F26AD2748007E5135 /* CountryMapView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 64DD412226AD2748007E5135 /* CountryMapView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
 		64DD40F626AD1FE6007E5135 /* Kontry_SwiftUI.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Kontry_SwiftUI.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		64DD40F926AD1FE6007E5135 /* Kontry_SwiftUIApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Kontry_SwiftUIApp.swift; sourceTree = "<group>"; };
-		64DD40FB26AD1FE6007E5135 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
+		64DD40FB26AD1FE6007E5135 /* CountryListView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CountryListView.swift; sourceTree = "<group>"; };
 		64DD40FD26AD1FE9007E5135 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		64DD410026AD1FE9007E5135 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		64DD410226AD1FE9007E5135 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		64DD410D26AD272A007E5135 /* CountryDetailView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CountryDetailView.swift; sourceTree = "<group>"; };
+		64DD411126AD2746007E5135 /* countries-backup.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = "countries-backup.json"; sourceTree = "<group>"; };
+		64DD411226AD2746007E5135 /* countries.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = countries.json; sourceTree = "<group>"; };
+		64DD411426AD2747007E5135 /* CountryModel.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CountryModel.swift; sourceTree = "<group>"; };
+		64DD411626AD2747007E5135 /* Constant.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Constant.swift; sourceTree = "<group>"; };
+		64DD411826AD2747007E5135 /* Bundle+Extension.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "Bundle+Extension.swift"; sourceTree = "<group>"; };
+		64DD411926AD2747007E5135 /* View+Extension.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "View+Extension.swift"; sourceTree = "<group>"; };
+		64DD411B26AD2748007E5135 /* WatermarkView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = WatermarkView.swift; sourceTree = "<group>"; };
+		64DD411D26AD2748007E5135 /* DetailView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = DetailView.swift; sourceTree = "<group>"; };
+		64DD411E26AD2748007E5135 /* TitleView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TitleView.swift; sourceTree = "<group>"; };
+		64DD411F26AD2748007E5135 /* FlagView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = FlagView.swift; sourceTree = "<group>"; };
+		64DD412126AD2748007E5135 /* CountryListItem.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CountryListItem.swift; sourceTree = "<group>"; };
+		64DD412226AD2748007E5135 /* CountryMapView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CountryMapView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -52,8 +78,12 @@
 		64DD40F826AD1FE6007E5135 /* Kontry_SwiftUI */ = {
 			isa = PBXGroup;
 			children = (
-				64DD40F926AD1FE6007E5135 /* Kontry_SwiftUIApp.swift */,
-				64DD40FB26AD1FE6007E5135 /* ContentView.swift */,
+				64DD410A26AD2617007E5135 /* App */,
+				64DD411A26AD2748007E5135 /* View */,
+				64DD411326AD2747007E5135 /* Model */,
+				64DD411726AD2747007E5135 /* Extension */,
+				64DD411526AD2747007E5135 /* Utility */,
+				64DD411026AD2746007E5135 /* Data */,
 				64DD40FD26AD1FE9007E5135 /* Assets.xcassets */,
 				64DD410226AD1FE9007E5135 /* Info.plist */,
 				64DD40FF26AD1FE9007E5135 /* Preview Content */,
@@ -67,6 +97,79 @@
 				64DD410026AD1FE9007E5135 /* Preview Assets.xcassets */,
 			);
 			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+		64DD410A26AD2617007E5135 /* App */ = {
+			isa = PBXGroup;
+			children = (
+				64DD40F926AD1FE6007E5135 /* Kontry_SwiftUIApp.swift */,
+				64DD40FB26AD1FE6007E5135 /* CountryListView.swift */,
+				64DD410D26AD272A007E5135 /* CountryDetailView.swift */,
+			);
+			path = App;
+			sourceTree = "<group>";
+		};
+		64DD411026AD2746007E5135 /* Data */ = {
+			isa = PBXGroup;
+			children = (
+				64DD411126AD2746007E5135 /* countries-backup.json */,
+				64DD411226AD2746007E5135 /* countries.json */,
+			);
+			path = Data;
+			sourceTree = "<group>";
+		};
+		64DD411326AD2747007E5135 /* Model */ = {
+			isa = PBXGroup;
+			children = (
+				64DD411426AD2747007E5135 /* CountryModel.swift */,
+			);
+			path = Model;
+			sourceTree = "<group>";
+		};
+		64DD411526AD2747007E5135 /* Utility */ = {
+			isa = PBXGroup;
+			children = (
+				64DD411626AD2747007E5135 /* Constant.swift */,
+			);
+			path = Utility;
+			sourceTree = "<group>";
+		};
+		64DD411726AD2747007E5135 /* Extension */ = {
+			isa = PBXGroup;
+			children = (
+				64DD411826AD2747007E5135 /* Bundle+Extension.swift */,
+				64DD411926AD2747007E5135 /* View+Extension.swift */,
+			);
+			path = Extension;
+			sourceTree = "<group>";
+		};
+		64DD411A26AD2748007E5135 /* View */ = {
+			isa = PBXGroup;
+			children = (
+				64DD411B26AD2748007E5135 /* WatermarkView.swift */,
+				64DD411C26AD2748007E5135 /* CountryDetail */,
+				64DD412026AD2748007E5135 /* CountryList */,
+			);
+			path = View;
+			sourceTree = "<group>";
+		};
+		64DD411C26AD2748007E5135 /* CountryDetail */ = {
+			isa = PBXGroup;
+			children = (
+				64DD411D26AD2748007E5135 /* DetailView.swift */,
+				64DD411E26AD2748007E5135 /* TitleView.swift */,
+				64DD411F26AD2748007E5135 /* FlagView.swift */,
+			);
+			path = CountryDetail;
+			sourceTree = "<group>";
+		};
+		64DD412026AD2748007E5135 /* CountryList */ = {
+			isa = PBXGroup;
+			children = (
+				64DD412126AD2748007E5135 /* CountryListItem.swift */,
+				64DD412226AD2748007E5135 /* CountryMapView.swift */,
+			);
+			path = CountryList;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -128,6 +231,8 @@
 			files = (
 				64DD410126AD1FE9007E5135 /* Preview Assets.xcassets in Resources */,
 				64DD40FE26AD1FE9007E5135 /* Assets.xcassets in Resources */,
+				64DD412526AD2748007E5135 /* countries.json in Resources */,
+				64DD412426AD2748007E5135 /* countries-backup.json in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -138,8 +243,19 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				64DD40FC26AD1FE6007E5135 /* ContentView.swift in Sources */,
+				64DD410E26AD272A007E5135 /* CountryDetailView.swift in Sources */,
+				64DD412B26AD2748007E5135 /* DetailView.swift in Sources */,
+				64DD412826AD2748007E5135 /* Bundle+Extension.swift in Sources */,
+				64DD412F26AD2748007E5135 /* CountryMapView.swift in Sources */,
+				64DD40FC26AD1FE6007E5135 /* CountryListView.swift in Sources */,
+				64DD412726AD2748007E5135 /* Constant.swift in Sources */,
+				64DD412626AD2748007E5135 /* CountryModel.swift in Sources */,
+				64DD412D26AD2748007E5135 /* FlagView.swift in Sources */,
+				64DD412926AD2748007E5135 /* View+Extension.swift in Sources */,
 				64DD40FA26AD1FE6007E5135 /* Kontry_SwiftUIApp.swift in Sources */,
+				64DD412A26AD2748007E5135 /* WatermarkView.swift in Sources */,
+				64DD412C26AD2748007E5135 /* TitleView.swift in Sources */,
+				64DD412E26AD2748007E5135 /* CountryListItem.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
