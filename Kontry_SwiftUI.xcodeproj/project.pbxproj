@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		648B6051293D18B700261B01 /* Kontry_SwiftUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 648B6050293D18B700261B01 /* Kontry_SwiftUITests.swift */; };
 		64DD40FA26AD1FE6007E5135 /* Kontry_SwiftUIApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 64DD40F926AD1FE6007E5135 /* Kontry_SwiftUIApp.swift */; };
 		64DD40FC26AD1FE6007E5135 /* CountryListView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 64DD40FB26AD1FE6007E5135 /* CountryListView.swift */; };
 		64DD40FE26AD1FE9007E5135 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 64DD40FD26AD1FE9007E5135 /* Assets.xcassets */; };
@@ -26,7 +27,19 @@
 		64DD412F26AD2748007E5135 /* CountryMapView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 64DD412226AD2748007E5135 /* CountryMapView.swift */; };
 /* End PBXBuildFile section */
 
+/* Begin PBXContainerItemProxy section */
+		648B6052293D18B700261B01 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 64DD40EE26AD1FE5007E5135 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 64DD40F526AD1FE6007E5135;
+			remoteInfo = Kontry_SwiftUI;
+		};
+/* End PBXContainerItemProxy section */
+
 /* Begin PBXFileReference section */
+		648B604E293D18B700261B01 /* Kontry_SwiftUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = Kontry_SwiftUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		648B6050293D18B700261B01 /* Kontry_SwiftUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Kontry_SwiftUITests.swift; sourceTree = "<group>"; };
 		64DD40F626AD1FE6007E5135 /* Kontry_SwiftUI.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Kontry_SwiftUI.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		64DD40F926AD1FE6007E5135 /* Kontry_SwiftUIApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Kontry_SwiftUIApp.swift; sourceTree = "<group>"; };
 		64DD40FB26AD1FE6007E5135 /* CountryListView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CountryListView.swift; sourceTree = "<group>"; };
@@ -49,6 +62,13 @@
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
+		648B604B293D18B700261B01 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
 		64DD40F326AD1FE6007E5135 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
@@ -59,10 +79,19 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		648B604F293D18B700261B01 /* Kontry_SwiftUITests */ = {
+			isa = PBXGroup;
+			children = (
+				648B6050293D18B700261B01 /* Kontry_SwiftUITests.swift */,
+			);
+			path = Kontry_SwiftUITests;
+			sourceTree = "<group>";
+		};
 		64DD40ED26AD1FE5007E5135 = {
 			isa = PBXGroup;
 			children = (
 				64DD40F826AD1FE6007E5135 /* Kontry_SwiftUI */,
+				648B604F293D18B700261B01 /* Kontry_SwiftUITests */,
 				64DD40F726AD1FE6007E5135 /* Products */,
 			);
 			sourceTree = "<group>";
@@ -71,6 +100,7 @@
 			isa = PBXGroup;
 			children = (
 				64DD40F626AD1FE6007E5135 /* Kontry_SwiftUI.app */,
+				648B604E293D18B700261B01 /* Kontry_SwiftUITests.xctest */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -175,6 +205,24 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
+		648B604D293D18B700261B01 /* Kontry_SwiftUITests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 648B6056293D18B700261B01 /* Build configuration list for PBXNativeTarget "Kontry_SwiftUITests" */;
+			buildPhases = (
+				648B604A293D18B700261B01 /* Sources */,
+				648B604B293D18B700261B01 /* Frameworks */,
+				648B604C293D18B700261B01 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				648B6053293D18B700261B01 /* PBXTargetDependency */,
+			);
+			name = Kontry_SwiftUITests;
+			productName = Kontry_SwiftUITests;
+			productReference = 648B604E293D18B700261B01 /* Kontry_SwiftUITests.xctest */;
+			productType = "com.apple.product-type.bundle.unit-test";
+		};
 		64DD40F526AD1FE6007E5135 /* Kontry_SwiftUI */ = {
 			isa = PBXNativeTarget;
 			buildConfigurationList = 64DD410526AD1FE9007E5135 /* Build configuration list for PBXNativeTarget "Kontry_SwiftUI" */;
@@ -198,9 +246,13 @@
 		64DD40EE26AD1FE5007E5135 /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
-				LastSwiftUpdateCheck = 1240;
+				LastSwiftUpdateCheck = 1410;
 				LastUpgradeCheck = 1240;
 				TargetAttributes = {
+					648B604D293D18B700261B01 = {
+						CreatedOnToolsVersion = 14.1;
+						TestTargetID = 64DD40F526AD1FE6007E5135;
+					};
 					64DD40F526AD1FE6007E5135 = {
 						CreatedOnToolsVersion = 12.4;
 					};
@@ -220,11 +272,19 @@
 			projectRoot = "";
 			targets = (
 				64DD40F526AD1FE6007E5135 /* Kontry_SwiftUI */,
+				648B604D293D18B700261B01 /* Kontry_SwiftUITests */,
 			);
 		};
 /* End PBXProject section */
 
 /* Begin PBXResourcesBuildPhase section */
+		648B604C293D18B700261B01 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
 		64DD40F426AD1FE6007E5135 /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
@@ -239,6 +299,14 @@
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
+		648B604A293D18B700261B01 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				648B6051293D18B700261B01 /* Kontry_SwiftUITests.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
 		64DD40F226AD1FE6007E5135 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
@@ -261,7 +329,55 @@
 		};
 /* End PBXSourcesBuildPhase section */
 
+/* Begin PBXTargetDependency section */
+		648B6053293D18B700261B01 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 64DD40F526AD1FE6007E5135 /* Kontry_SwiftUI */;
+			targetProxy = 648B6052293D18B700261B01 /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
 /* Begin XCBuildConfiguration section */
+		648B6054293D18B700261B01 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = XZBU42828U;
+				GENERATE_INFOPLIST_FILE = YES;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "learn.shendy.Kontry-SwiftUITests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SUPPORTS_MACCATALYST = NO;
+				SUPPORTS_MAC_DESIGNED_FOR_IPHONE_IPAD = YES;
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Kontry_SwiftUI.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/Kontry_SwiftUI";
+			};
+			name = Debug;
+		};
+		648B6055293D18B700261B01 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = XZBU42828U;
+				GENERATE_INFOPLIST_FILE = YES;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "learn.shendy.Kontry-SwiftUITests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SUPPORTS_MACCATALYST = NO;
+				SUPPORTS_MAC_DESIGNED_FOR_IPHONE_IPAD = YES;
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Kontry_SwiftUI.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/Kontry_SwiftUI";
+			};
+			name = Release;
+		};
 		64DD410326AD1FE9007E5135 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
@@ -387,7 +503,6 @@
 				DEVELOPMENT_ASSET_PATHS = "\"Kontry_SwiftUI/Preview Content\"";
 				ENABLE_PREVIEWS = YES;
 				INFOPLIST_FILE = Kontry_SwiftUI/Info.plist;
-				IPHONEOS_DEPLOYMENT_TARGET = 14.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -395,7 +510,6 @@
 				PRODUCT_BUNDLE_IDENTIFIER = "learn.shendy.Kontry-SwiftUI";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 5.0;
-				TARGETED_DEVICE_FAMILY = "1,2";
 			};
 			name = Debug;
 		};
@@ -408,7 +522,6 @@
 				DEVELOPMENT_ASSET_PATHS = "\"Kontry_SwiftUI/Preview Content\"";
 				ENABLE_PREVIEWS = YES;
 				INFOPLIST_FILE = Kontry_SwiftUI/Info.plist;
-				IPHONEOS_DEPLOYMENT_TARGET = 14.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -416,13 +529,21 @@
 				PRODUCT_BUNDLE_IDENTIFIER = "learn.shendy.Kontry-SwiftUI";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 5.0;
-				TARGETED_DEVICE_FAMILY = "1,2";
 			};
 			name = Release;
 		};
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
+		648B6056293D18B700261B01 /* Build configuration list for PBXNativeTarget "Kontry_SwiftUITests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				648B6054293D18B700261B01 /* Debug */,
+				648B6055293D18B700261B01 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
 		64DD40F126AD1FE5007E5135 /* Build configuration list for PBXProject "Kontry_SwiftUI" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
