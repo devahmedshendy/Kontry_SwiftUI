@@ -43,7 +43,6 @@ struct DetailView: View {
             Color("detail-backgound-color")
                 .cornerRadius(10)
         )
-        .padding(.horizontal, 20)
         .frame(maxWidth: 480)
     }
 }

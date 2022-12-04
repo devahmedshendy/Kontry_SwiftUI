@@ -20,8 +20,11 @@ struct CountryListItem: View {
             Spacer()
         }
         .background(
-            RoundedRectangle(cornerRadius: 10, style: .circular)
-                .stroke(Color("list-border-color"))
+            RoundedRectangle(
+                cornerRadius: 10,
+                style: .circular
+            )
+            .stroke(Color("list-border-color"))
         )
         .frame(height: 35)
         .padding(.vertical, 15)
