@@ -46,6 +46,9 @@ struct CountryListView: View {
             } // ZStack
         } // NavigationView
         .navigationViewStyle(StackNavigationViewStyle())
+        .onAppear {
+            UITableView.appearance().separatorStyle = .none
+        }
     }
 }
 

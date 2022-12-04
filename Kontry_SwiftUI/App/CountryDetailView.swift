@@ -24,11 +24,9 @@ struct CountryDetailView: View {
                     // MapView
                     CountryMapView(region: country.mapRegion, capitalAnnotation: country.capital)
                     
-                    // TitleView
-                    TitleView(countryName: country.name)
-                    
                     // FlagView
                     FlagView(flagName: country.flagName)
+                    
                 } // ZStack
                 .frame(height: 550)
                 
@@ -48,12 +46,15 @@ struct CountryDetailView: View {
                     // Language
                     DetailView(icon: "language", title: "language", value: country.languagesAsString)
                 }
-                .padding(.top, 20)
+                .padding(20)
                 
             } // ScrollView
             .ignoresSafeArea()
             .navigationBarTitle(country.name)
             .navigationBarHidden(true)
+            
+            // TitleView
+            TitleView(countryName: country.name)
         }
     }
 }
